@@ -1,19 +1,19 @@
 body {
     color: rgba(19, 18, 18, 0.863);
     font-family: Raleway; 
-    font-size: 60px;
+    font-size: 25px;
 }
 h1 {
     color: rgb(0, 29, 2);
     background-color: rgb(233, 233, 153);
-    font-size: 105px;
+    font-size: 90px;
 }
 
 h2{
     color: rgb(2, 70, 6);
     background-color: rgb(187, 228, 228);
     font-family: Raleway;
-    font-size: 70px;
+    font-size: 30px;
 }
  
 a {
