@@ -1,7 +1,7 @@
 body {
     color: rgba(19, 18, 18, 0.863);
     font-family: Raleway; 
-    font-size: 80px;
+    font-size: 60px;
 }
 h1 {
     color: rgb(0, 29, 2);
@@ -13,7 +13,7 @@ h2{
     color: rgb(2, 70, 6);
     background-color: rgb(187, 228, 228);
     font-family: Raleway;
-    font-size: 90px;
+    font-size: 70px;
 }
  
 a {
